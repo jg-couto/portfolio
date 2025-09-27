@@ -2,7 +2,7 @@
 
 Olá, me chamo João Guilherme e sou aluno de Ciência da Computação na Pontifícia Universidade Católica de São Paulo (PUC-SP).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jg-couto&stats_format=bytes)
 
 ## Contatos:
 <div>
